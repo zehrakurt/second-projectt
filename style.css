@@ -1,0 +1,96 @@
+.navbar {
+    
+    background-color: #201F1F;
+    color: aliceblue;
+}
+
+.arka{
+background-image: url("1.png");
+background-repeat: no-repeat;
+background-position: center ;
+
+background-size: cover;
+}
+
+.sec{
+    background-color: #201F1F;
+}
+
+.cardorta{
+    background-color:  #201F1F;
+}
+
+.altimg{
+    height: 350px;
+    width: 600px;
+}
+
+
+
+.orta{
+background-image: url("orta.png");
+background-repeat: no-repeat;
+background-position: center ;
+background-color: #201F1F;
+max-width: 100%;
+height: auto;
+margin-top: 3rem;
+margin-bottom: 2rem;
+
+}
+
+.img-one{
+    border-radius: 1rem ;
+    width: 600px;
+    height: 400px;
+}
+.news{
+    border-radius: 1rem;
+}
+.divy{
+    padding-left: 12px;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.fot{
+    background-color: #201F1F;
+    margin-top: 7rem;
+}
+.icon{
+    width: 48px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+.kat{
+    margin-bottom: 4rem ;
+    margin-top: 3rem;
+}
+.buton{
+    margin-left: 5rem;
+    
+}
+.haberresim{
+    height: 40px;
+    width: 40px;
+}
+.yönetim{
+    height: 600px;
+    width: 400px;
+}
+.icon2{
+    width: 48px;
+    height: 48px;
+}
+.altbuton{ 
+    height: 80px;
+    width: 80px;
+    border-radius: 2px;
+
+   }
+
+.bg{
+    background-color: #201F1F;
+}
